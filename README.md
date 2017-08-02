@@ -1,21 +1,53 @@
-# dogster
+<h1 align="center">
+  <br>
+  Dogster 🐶
+  <br>
+</h1>
 
-> A Vue.js project
+<h4 align="center">The first social network for dogs.</h4>
 
-## Build Setup
+<br>
 
-``` bash
-# install dependencies
-npm install
+## Key Features
 
-# serve with hot reload at localhost:8080
-npm run dev
+* Meet dogs near from your home
+* Discover new parks and tips
+* Well not so much features in fact
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Dokeezy/dogster.git dogster
+
+# Go into the repository
+$ cd dogster
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm run dev
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Credits
+
+This software uses code from several open source packages.
+
+- [Node.js](https://nodejs.org/)
+- [Vue.js](https://vuejs.org/)
+- [Firebase](https://firebase.google.com/)
+
+#### License
+
+MIT
+
+---
+
+> GitHub [@dokeezy](https://github.com/Dokeezy) &nbsp;&middot;&nbsp;
+> Facebook [Pierre-Eric Garcia](https://www.facebook.com/pierreeric.garcia.1) &nbsp;&middot;&nbsp;
+> LinkedIn [Pierre-Eric Garcia](https://www.linkedin.com/in/pierre-eric-garcia) &nbsp;&middot;&nbsp;
+> Medium [@garciape](https://medium.com/@garciape)
