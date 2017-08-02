@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-<a href="https://dogster-dd27f.firebaseapp.com"><img src="https://firebasestorage.googleapis.com/v0/b/tutoslack-e49d9.appspot.com/o/dogster_logo.png?alt=media&token=f98f718f-8f17-4ec9-9a2e-d305d9795e69" alt="Yencli" width="200"></a>
+<a href="https://dogster-dd27f.firebaseapp.com"><img src="https://firebasestorage.googleapis.com/v0/b/tutoslack-e49d9.appspot.com/o/dogster_logo.png?alt=media&token=f98f718f-8f17-4ec9-9a2e-d305d9795e69" alt="Yencli" width="150"></a>
 
   <br>
   Dogster 🐶
