@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
-<a href="https://dogster-dd27f.firebaseapp.com"><img src="https://firebasestorage.googleapis.com/v0/b/tutoslack-e49d9.appspot.com/o/dogster_logo.png?alt=media&token=f98f718f-8f17-4ec9-9a2e-d305d9795e69" alt="Yencli" width="150"></a>
-
+<a href="https://dogster-dd27f.firebaseapp.com"><img src="https://firebasestorage.googleapis.com/v0/b/dogster-dd27f.appspot.com/o/dogster_logo.png?alt=media&token=81c4ed8d-95c6-4807-80d8-e3faa4638f42" alt="Yencli" width="150"></a>
+<br>
   <br>
   Dogster 🐶
   <br>
@@ -10,6 +10,8 @@
 <h4 align="center">The first social network for dogs.</h4>
 
 <br>
+
+![screenshot](https://firebasestorage.googleapis.com/v0/b/dogster-dd27f.appspot.com/o/Capture%20d%E2%80%99e%CC%81cran%202017-08-02%20a%CC%80%2015.16.47.png?alt=media&token=cc26a253-0513-473a-98d8-88599ba12aba)
 
 ## Key Features
 
