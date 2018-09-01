@@ -15,6 +15,8 @@
 
 ## Key Features
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pierreericgarcia/dogster.svg)](https://greenkeeper.io/)
+
 * Meet dogs near from your home
 * Discover new parks and tips
 * Well not so much features in fact
